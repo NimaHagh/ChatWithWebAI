@@ -8,7 +8,7 @@ This application leverages Streamlit and various langchain components to enable 
 - Conversational Interface: Implements a retrieval-augmented generation chain to provide contextually relevant answers.
 ## Diagram
 Here is the flow of the application:
-![RAG-1 (1)](https://github.com/NimaHagh/ChatWithWebAI/assets/105126750/8fe1e772-baba-4ec9-b413-95ed85f1ec73)
+![Content of the Web](https://github.com/NimaHagh/ChatWithWebAI/assets/105126750/d418d646-355c-4832-9f2d-22e222a849c5)
 
 ## Installation
 1. Clone the repository:
